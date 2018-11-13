@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: spring-heroku-starter
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: banez
+Built-By: Banez
 Implementation-Vendor-Id: com.cohesion
-Build-Jdk: 1.8.0_181
+Build-Jdk: 1.8.0_191
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring-heroku-starter
 Created-By: Maven Integration for Eclipse
